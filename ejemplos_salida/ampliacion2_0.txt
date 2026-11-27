@@ -1,0 +1,44 @@
+Avengers: Doomsday | Sala 1 / 18:00 | Entradas iniciales: 0
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 1: COMPRA 2 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 1: COMPRA 3 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 1: COMPRA 1 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 1: COMPRA 4 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 2: DEVOLUCION 1 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 2: DEVOLUCION 2 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 2: DEVOLUCION 1 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 2: DEVOLUCION 1 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 3: COMPRA 4 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 3: COMPRA 1 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 3: COMPRA 2 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 3: COMPRA 3 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 4: DEVOLUCION 1 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 4: DEVOLUCION 1 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 4: DEVOLUCION 1 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 4: DEVOLUCION 2 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 5: COMPRA 1 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 5: COMPRA 4 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 5: COMPRA 3 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 5: COMPRA 2 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 6: DEVOLUCION 9 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 6: DEVOLUCION 1 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 6: DEVOLUCION 2 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 6: DEVOLUCION 1 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 7: COMPRA 3 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 7: COMPRA 2 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 7: COMPRA 4 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 7: COMPRA 1 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 8: DEVOLUCION 1 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 8: DEVOLUCION 1 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 8: DEVOLUCION 1 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 8: DEVOLUCION 1 -> RECHAZADA
+
+CIERRE DE VENTAS: Avengers: Doomsday / Sala 1 / 18:00
+TAQUILLA: vendidas=0, devueltas=0, comprasOk=0, comprasNo=4, devolOk=0, devolNo=4
+WEB: vendidas=0, devueltas=0, comprasOk=0, comprasNo=4, devolOk=0, devolNo=4
+APP: vendidas=0, devueltas=0, comprasOk=0, comprasNo=4, devolOk=0, devolNo=4
+QUIOSCO: vendidas=0, devueltas=0, comprasOk=0, comprasNo=4, devolOk=0, devolNo=4
+Iniciales: 0 | Vendidas: 0 | Devueltas: 0 | Disponibles: 0
+Compras aceptadas: 0 | rechazadas: 16
+Devoluciones aceptadas: 0 | rechazadas: 16
+Operaciones procesadas: 32
+Control del inventario: CORRECTO

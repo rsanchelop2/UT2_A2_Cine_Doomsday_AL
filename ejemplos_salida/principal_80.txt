@@ -1,0 +1,36 @@
+Avengers: Doomsday | Sala 1 / 18:00 | Entradas iniciales: 80
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 1: COMPRA 2 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 1: COMPRA 3 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 1: COMPRA 1 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 1: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 2: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 2: COMPRA 1 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 2: COMPRA 2 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 2: COMPRA 3 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 3: COMPRA 1 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 3: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 3: COMPRA 3 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 3: COMPRA 2 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 4: COMPRA 3 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 4: COMPRA 2 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 4: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 4: COMPRA 1 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 5: COMPRA 2 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 5: COMPRA 3 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 5: COMPRA 1 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 5: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 6: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 6: COMPRA 1 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 6: COMPRA 2 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 6: COMPRA 3 -> ACEPTADA
+
+CIERRE DE VENTAS: Avengers: Doomsday / Sala 1 / 18:00
+TAQUILLA: vendidas=16, devueltas=0, comprasOk=6, comprasNo=0, devolOk=0, devolNo=0
+WEB: vendidas=14, devueltas=0, comprasOk=6, comprasNo=0, devolOk=0, devolNo=0
+APP: vendidas=13, devueltas=0, comprasOk=6, comprasNo=0, devolOk=0, devolNo=0
+QUIOSCO: vendidas=17, devueltas=0, comprasOk=6, comprasNo=0, devolOk=0, devolNo=0
+Iniciales: 80 | Vendidas: 60 | Devueltas: 0 | Disponibles: 20
+Compras aceptadas: 24 | rechazadas: 0
+Devoluciones aceptadas: 0 | rechazadas: 0
+Operaciones procesadas: 24
+Control del inventario: CORRECTO

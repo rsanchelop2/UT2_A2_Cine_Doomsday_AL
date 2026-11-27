@@ -1,0 +1,86 @@
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 1: COMPRA 2 -> ACEPTADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 1: COMPRA 2 -> ACEPTADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 1: COMPRA 3 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 1: COMPRA 3 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 1: COMPRA 1 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 1: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 1: COMPRA 4 -> ACEPTADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 1: COMPRA 1 -> ACEPTADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 2: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 2: DEVOLUCION 1 -> ACEPTADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 2: DEVOLUCION 2 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 2: DEVOLUCION 2 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 2: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 2: DEVOLUCION 1 -> ACEPTADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 2: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 2: DEVOLUCION 1 -> ACEPTADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 3: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 3: COMPRA 4 -> ACEPTADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 3: COMPRA 1 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 3: COMPRA 1 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 3: COMPRA 3 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 3: COMPRA 2 -> ACEPTADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 3: COMPRA 2 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 3: COMPRA 3 -> ACEPTADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 4: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 4: DEVOLUCION 1 -> ACEPTADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 4: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 4: DEVOLUCION 1 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 4: DEVOLUCION 2 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 4: DEVOLUCION 1 -> ACEPTADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 4: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 4: DEVOLUCION 2 -> ACEPTADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 5: COMPRA 1 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 5: COMPRA 1 -> ACEPTADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 6: DEVOLUCION 9 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 6: DEVOLUCION 9 -> RECHAZADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 5: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 5: COMPRA 4 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 5: COMPRA 2 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 5: COMPRA 3 -> ACEPTADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 5: COMPRA 3 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 5: COMPRA 2 -> ACEPTADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 7: COMPRA 3 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 7: COMPRA 3 -> ACEPTADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 6: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 6: DEVOLUCION 1 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 6: DEVOLUCION 1 -> ACEPTADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 6: DEVOLUCION 2 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 6: DEVOLUCION 2 -> ACEPTADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 8: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 6: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 8: DEVOLUCION 1 -> ACEPTADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 7: COMPRA 2 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 7: COMPRA 2 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 7: COMPRA 1 -> ACEPTADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 7: COMPRA 4 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 7: COMPRA 4 -> ACEPTADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 8: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 7: COMPRA 1 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 8: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 8: DEVOLUCION 1 -> ACEPTADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 8: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 8: DEVOLUCION 1 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 8: DEVOLUCION 1 -> ACEPTADA
+
+CIERRE DE VENTAS: Avengers: Doomsday / Sala 1 / 18:00
+TAQUILLA: vendidas=10, devueltas=3, comprasOk=4, comprasNo=0, devolOk=3, devolNo=1
+WEB: vendidas=10, devueltas=5, comprasOk=4, comprasNo=0, devolOk=4, devolNo=0
+APP: vendidas=10, devueltas=5, comprasOk=4, comprasNo=0, devolOk=4, devolNo=0
+QUIOSCO: vendidas=10, devueltas=5, comprasOk=4, comprasNo=0, devolOk=4, devolNo=0
+Iniciales: 30 | Vendidas: 40 | Devueltas: 18 | Disponibles: 8
+Compras aceptadas: 16 | rechazadas: 0
+Devoluciones aceptadas: 15 | rechazadas: 1
+Operaciones procesadas: 32
+Control del inventario: CORRECTO
+
+CIERRE DE VENTAS: Avengers: Doomsday / Sala 2 / 21:00
+TAQUILLA: vendidas=7, devueltas=3, comprasOk=3, comprasNo=1, devolOk=3, devolNo=1
+WEB: vendidas=10, devueltas=5, comprasOk=4, comprasNo=0, devolOk=4, devolNo=0
+APP: vendidas=6, devueltas=5, comprasOk=3, comprasNo=1, devolOk=4, devolNo=0
+QUIOSCO: vendidas=10, devueltas=5, comprasOk=4, comprasNo=0, devolOk=4, devolNo=0
+Iniciales: 20 | Vendidas: 33 | Devueltas: 18 | Disponibles: 5
+Compras aceptadas: 14 | rechazadas: 2
+Devoluciones aceptadas: 15 | rechazadas: 1
+Operaciones procesadas: 32
+Control del inventario: CORRECTO

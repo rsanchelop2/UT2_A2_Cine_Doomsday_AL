@@ -1,0 +1,70 @@
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 1: COMPRA 2 -> ACEPTADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 1: COMPRA 2 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 1: COMPRA 1 -> ACEPTADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 1: COMPRA 1 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 1: COMPRA 4 -> ACEPTADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 1: COMPRA 3 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 1: COMPRA 3 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 1: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 2: COMPRA 4 -> ACEPTADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 2: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 2: COMPRA 2 -> ACEPTADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 2: COMPRA 2 -> ACEPTADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 2: COMPRA 3 -> ACEPTADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 2: COMPRA 1 -> ACEPTADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 2: COMPRA 1 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 2: COMPRA 3 -> ACEPTADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 3: COMPRA 1 -> RECHAZADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 3: COMPRA 4 -> RECHAZADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 3: COMPRA 3 -> RECHAZADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 3: COMPRA 2 -> RECHAZADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 4: COMPRA 3 -> RECHAZADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 4: COMPRA 2 -> RECHAZADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 4: COMPRA 4 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 3: COMPRA 1 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 4: COMPRA 1 -> RECHAZADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 5: COMPRA 2 -> RECHAZADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 5: COMPRA 3 -> RECHAZADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 5: COMPRA 1 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 3: COMPRA 3 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 5: COMPRA 4 -> RECHAZADA
+[Sala 2 / 21:00 / TAQUILLA / Venta-TAQUILLA-4] Operación 6: COMPRA 4 -> RECHAZADA
+[Sala 2 / 21:00 / WEB / Venta-WEB-5] Operación 6: COMPRA 1 -> RECHAZADA
+[Sala 2 / 21:00 / APP / Venta-APP-6] Operación 6: COMPRA 2 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 3: COMPRA 2 -> ACEPTADA
+[Sala 2 / 21:00 / QUIOSCO / Venta-QUIOSCO-7] Operación 6: COMPRA 3 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 3: COMPRA 4 -> ACEPTADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 4: COMPRA 3 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 4: COMPRA 4 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 4: COMPRA 1 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 4: COMPRA 2 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 5: COMPRA 2 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 5: COMPRA 1 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 5: COMPRA 4 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 5: COMPRA 3 -> RECHAZADA
+[Sala 1 / 18:00 / TAQUILLA / Venta-TAQUILLA-0] Operación 6: COMPRA 4 -> RECHAZADA
+[Sala 1 / 18:00 / APP / Venta-APP-2] Operación 6: COMPRA 2 -> RECHAZADA
+[Sala 1 / 18:00 / QUIOSCO / Venta-QUIOSCO-3] Operación 6: COMPRA 3 -> RECHAZADA
+[Sala 1 / 18:00 / WEB / Venta-WEB-1] Operación 6: COMPRA 1 -> RECHAZADA
+
+CIERRE DE VENTAS: Avengers: Doomsday / Sala 1 / 18:00
+TAQUILLA: vendidas=7, devueltas=0, comprasOk=3, comprasNo=3, devolOk=0, devolNo=0
+WEB: vendidas=8, devueltas=0, comprasOk=3, comprasNo=3, devolOk=0, devolNo=0
+APP: vendidas=6, devueltas=0, comprasOk=3, comprasNo=3, devolOk=0, devolNo=0
+QUIOSCO: vendidas=9, devueltas=0, comprasOk=3, comprasNo=3, devolOk=0, devolNo=0
+Iniciales: 30 | Vendidas: 30 | Devueltas: 0 | Disponibles: 0
+Compras aceptadas: 12 | rechazadas: 12
+Devoluciones aceptadas: 0 | rechazadas: 0
+Operaciones procesadas: 24
+Control del inventario: CORRECTO
+
+CIERRE DE VENTAS: Avengers: Doomsday / Sala 2 / 21:00
+TAQUILLA: vendidas=6, devueltas=0, comprasOk=2, comprasNo=4, devolOk=0, devolNo=0
+WEB: vendidas=4, devueltas=0, comprasOk=2, comprasNo=4, devolOk=0, devolNo=0
+APP: vendidas=3, devueltas=0, comprasOk=2, comprasNo=4, devolOk=0, devolNo=0
+QUIOSCO: vendidas=7, devueltas=0, comprasOk=2, comprasNo=4, devolOk=0, devolNo=0
+Iniciales: 20 | Vendidas: 20 | Devueltas: 0 | Disponibles: 0
+Compras aceptadas: 8 | rechazadas: 16
+Devoluciones aceptadas: 0 | rechazadas: 0
+Operaciones procesadas: 24
+Control del inventario: CORRECTO
