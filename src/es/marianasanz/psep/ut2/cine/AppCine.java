@@ -50,6 +50,16 @@ public class AppCine {
 
     public static void ejecutarCanales(CanalVenta[] canales) throws InterruptedException {
         // TODO 3. Un Thread por canal.
+        Thread[] listaCanales = new Thread[canales.length];
+
+        for (int i = 0; i < canales.length; i++) {
+            listaCanales[i] = new Thread(canales[i]);
+            listaCanales[i].start();
+        }
+
+        for (Thread hilo : listaCanales) {
+            hilo.join();
+        }
     }
 
     private static void ejecutarDosSesiones(boolean devoluciones) throws InterruptedException {

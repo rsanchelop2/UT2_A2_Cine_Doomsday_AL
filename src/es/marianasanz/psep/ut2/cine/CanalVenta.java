@@ -28,7 +28,19 @@ public class CanalVenta implements Runnable {
             // actualiza los tres contadores de compras y usa registrar(...).
             // Entre pedidos espera 40 ms fuera del bloqueo de la sala.
             // TODO 6 también incluye adaptar este recorrido para los negativos. Hacerlo después.
-            Thread.sleep(0); // Modifica este cuerpo provisional.
+             // Modifica este cuerpo provisional.
+            for (int pedido : pedidos) {
+                if (sala.vender(pedido)) {
+                    entradasVendidas += pedido;
+                    pedidosAceptados++;
+                    registrar(pedidosAceptados, pedido, true);
+                } else {
+                    pedidosRechazados++;
+
+                }
+                Thread.sleep(40);
+            }
+
         } catch (InterruptedException e) {
             Thread.currentThread().interrupt();
             System.out.println("Canal interrumpido: " + nombre);

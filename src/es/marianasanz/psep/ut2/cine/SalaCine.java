@@ -20,11 +20,14 @@ public class SalaCine {
     // No representa el pago ni el tiempo que tarda el espectador en ver la película.
     public boolean vender(int cantidad) throws InterruptedException {
         if (cantidad <= 0) throw new IllegalArgumentException("El pedido debe ser positivo");
-        Thread.sleep(50); // Sustituye esta pausa provisional.
+        Thread.sleep(50);
         if (entradasDisponibles >= cantidad) {
+            System.out.println("Hay entradas disponibles");
+            Thread.sleep(50);
+            entradasDisponibles -= cantidad;
             return true;
         }
-
+        System.out.println("No hay entradas disponibles");
         return false;
     }
 
